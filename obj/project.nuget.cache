@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/LNBUzcVC+wiBzmTtX+i2IEYMxbfrFNYmwHJNM4ueNy4467IQY0h+Eium/FjVPXuGSeUkSLHnWqFFdARTBNpQ==",
+  "success": true,
+  "projectFilePath": "C:\\VSCode\\scannotes_backend\\scannotes_backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\signi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\signi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\signi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\signi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\signi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\signi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\VSCode\scannotes_backend\publish\scannotes_backend.exe
+C:\VSCode\scannotes_backend\publish\appsettings.Development.json
+C:\VSCode\scannotes_backend\publish\appsettings.json
+C:\VSCode\scannotes_backend\publish\scannotes_backend.dll
+C:\VSCode\scannotes_backend\publish\scannotes_backend.deps.json
+C:\VSCode\scannotes_backend\publish\scannotes_backend.runtimeconfig.json
+C:\VSCode\scannotes_backend\publish\scannotes_backend.pdb
+C:\VSCode\scannotes_backend\publish\Microsoft.OpenApi.dll
+C:\VSCode\scannotes_backend\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\VSCode\scannotes_backend\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\VSCode\scannotes_backend\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
